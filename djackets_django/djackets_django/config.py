@@ -1,0 +1,1 @@
+django_api_key = 'django-insecure-v9_-p)gi=vb4+l45kl0!gg-c9i5wtxew9dr0%f*i6j9j@nd6!h'
