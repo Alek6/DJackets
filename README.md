@@ -1,3 +1,2 @@
 # DJackets
-E-Commerce website using Django and Vue.
-# DJackets
+E-commerce website using superpowers of Django and Vue.js!
